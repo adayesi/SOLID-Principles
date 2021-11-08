@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "APPclient/1.0.0": {
+        "dependencies": {
+          "APPLib": "1.0.0"
+        },
+        "runtime": {
+          "APPclient.dll": {}
+        }
+      },
+      "APPLib/1.0.0": {
+        "runtime": {
+          "APPLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "APPclient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "APPLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

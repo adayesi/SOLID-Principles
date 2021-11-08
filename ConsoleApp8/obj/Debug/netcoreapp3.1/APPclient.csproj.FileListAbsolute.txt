@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\APPclient.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\APPclient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\APPclient.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\APPclient.AssemblyInfo.cs
+C:\Users\hp\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\APPclient.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.1\APPclient.exe
+C:\Users\hp\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.1\APPclient.deps.json
+C:\Users\hp\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.1\APPclient.runtimeconfig.json
+C:\Users\hp\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.1\APPclient.runtimeconfig.dev.json
+C:\Users\hp\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.1\APPclient.dll
+C:\Users\hp\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.1\APPclient.pdb
+C:\Users\hp\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.1\APPLib.dll
+C:\Users\hp\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp3.1\APPLib.pdb
+C:\Users\hp\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\APPclient.dll
+C:\Users\hp\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\APPclient.pdb
+C:\Users\hp\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\APPclient.genruntimeconfig.cache
+C:\Users\hp\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp3.1\APPclient.csproj.CopyComplete
